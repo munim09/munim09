@@ -87,8 +87,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Online Customer Service Management System](https://github.com/munim09)** | Paperless platform for new connections, complaints, field inspection, and billing at a utility company | Spring Boot · Hibernate · Oracle |
-| **[Gear Rental Platform](https://github.com/munim09)** | Rental marketplace backend with full ERD, seed data, and Stripe-powered payments | Node.js · Prisma 7 · Stripe |
+| **[Online Customer Service Management System]([https://github.com/munim09](https://ocsms.desco.org.bd/))** | Paperless platform for new connections, complaints, field inspection, and billing at a utility company | Spring Boot · Hibernate · Oracle |
+| **[Gear Rental Platform](https://github.com/munim09/next-level-gearup)** | Rental marketplace backend with full ERD, seed data, and Stripe-powered payments | Node.js · Prisma 7 · Stripe |
 | **[DevPulse](https://github.com/munim09/next-level-express-assignment-2)** | Internal tech issue and feature tracker for small engineering teams | Node.js · TypeScript · Express · PostgreSQL |
 
 ---
