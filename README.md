@@ -16,10 +16,10 @@
 ### 🔭 About me
 
 - 🏢 Assistant Engineer at **DESCO** (Dhaka Electric Supply Company), building backend systems for customer service, billing, and inventory — since 2020.
-- 🛠️ Also building my own stack on the side: **Node.js, TypeScript, Prisma, PostgreSQL** — ERP platforms, marketplace backends, and the deployment quirks that come with them.
+- 🛠️ Also building my own stack on the side: Node.js, TypeScript, Prisma, PostgreSQL — marketplace backends, internal tracking tools, and the deployment quirks that come with them.
 - 🎓 B.Sc. in Computer Science and Engineering, **BUET**.
-- 🧩 I enjoy the unglamorous middle layer of software — schema design, query correctness, the migration that has to run cleanly at 2am.
-- 🌱 Currently exploring Prisma, Next.js, and serverless PostgreSQL.
+- 🧩 I enjoy the unglamorous middle layer of software — schema design, query correctness, and the parts of a system nobody notices until they break.
+- 🌱 Currently exploring Prisma, Next.js, and PostgreSQL.
 - ⚡ Fun fact: my day job is literally keeping the lights on.
 
 ---
