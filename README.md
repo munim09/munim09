@@ -62,12 +62,32 @@
 
 ---
 
+### 💼 Experience
+
+**Assistant Engineer** — Dhaka Electric Supply Company Limited (DESCO)
+*Mar 2020 — Present*
+- Designed and developed custom reports using BIRT.
+- Built the Contractor Management module for the Inventory System using Java, Spring MVC, Hibernate, and Oracle.
+- Fixed bugs and improved functionality across Inventory and Customer Service Management Systems.
+- Added new features to the Customer Service System using Java, Spring Boot, JPA, JavaScript, jQuery, and Oracle.
+- Conducted UAT with banks and MFS providers for the Bill Payment API.
+- Performed data analysis and built custom reports using Oracle SQL.
+
+**Member, Research and Development** — Commlink Info Tech Ltd
+*Oct 2015 — Feb 2020*
+- Developed Android apps using Android (Java), SQLite, REST APIs, and Firebase.
+- Built a Document Management System with Java, Spring MVC, Hibernate, jQuery, and MySQL.
+- Implemented serial communication protocols for embedded systems.
+- Wrote unit tests for legacy C code to improve reliability.
+- Performed manual testing of Layer 2 and Layer 3 network protocols.
+
+---
+
 ### 📌 Pinned Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | **[Online Customer Service Management System](https://github.com/munim09)** | Paperless platform for new connections, complaints, field inspection, and billing at a utility company | Spring Boot · Hibernate · Oracle |
-| **[ERP Business Platform](https://github.com/munim09)** | Configurable ERP backend — auth, inventory, and billing on a modern TypeScript stack | Node.js · Express · Prisma · PostgreSQL |
 | **[Gear Rental Platform](https://github.com/munim09)** | Rental marketplace backend with full ERD, seed data, and Stripe-powered payments | Node.js · Prisma 7 · Stripe |
 | **[DevPulse](https://github.com/munim09)** | Internal tech issue and feature tracker for small engineering teams | Node.js · TypeScript · Express · PostgreSQL |
 
