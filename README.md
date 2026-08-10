@@ -135,5 +135,5 @@
 ---
 
 <p align="center">
-  <em>Reach out — always happy to talk Oracle queries, Prisma migrations, or utility-scale backend systems.</em>
+  <em>Reach out — always interested in discussing backend development, database design, APIs, and building reliable systems.</em>
 </p>
